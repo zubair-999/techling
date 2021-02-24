@@ -90,8 +90,13 @@
             "job": "CEO"
         },
         {
+            "img": "img/raheel.jpeg",
+            "name": "Rahil Ahmad",
+            "job": "Senior Frontend Developer "
+        },
+        {
             "img": "img/mubeen.jpg",
-            "name": "Mubeen",
+            "name": "Mubeen Aftab",
             "job": "Team Lead"
         }, {
             "img": "img/AbdurRehman.jpg",
@@ -100,7 +105,12 @@
         },
         {
             "img": "img/zubair.jpg",
-            "name": "Zubair",
+            "name": "Zubair Shfaique",
+            "job": "Software Enginner"
+        },
+        {
+            "img": "img/waleedzia.jpg",
+            "name": "Waleed Zia",
             "job": "Software Enginner"
         }
     ],
