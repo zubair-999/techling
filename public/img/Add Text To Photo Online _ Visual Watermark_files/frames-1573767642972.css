@@ -1,0 +1,66 @@
+.app-mount {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.app-mount > .spinner-component {
+	width: 40px;
+	height: 40px;
+
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.app-mount > .spinner-component > .double-bounce1, .app-mount > .spinner-component > .double-bounce2 {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	background-color: #1A6DFF;
+	opacity: 0.6;
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	-webkit-animation: app-mount-spinner-component-bounce 2.0s infinite ease-in-out;
+	animation: app-mount-spinner-component-bounce 2.0s infinite ease-in-out;
+}
+
+.app-mount > .spinner-component > .double-bounce2 {
+	-webkit-animation-delay: -1.0s;
+	animation-delay: -1.0s;
+}
+
+@-webkit-keyframes app-mount-spinner-component-bounce {
+	0%, 100% {
+		-webkit-transform: scale(0.0)
+	}
+	50% {
+		-webkit-transform: scale(1.0)
+	}
+}
+
+@keyframes app-mount-spinner-component-bounce {
+	0%, 100% {
+		transform: scale(0.0);
+		-webkit-transform: scale(0.0);
+	}
+	50% {
+		transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+	}
+}
+
+.visualwatermark .app-mount > .spinner-component > .double-bounce1,
+.visualwatermark .app-mount > .spinner-component > .double-bounce2 {
+	background-color: #3d6b99;
+}

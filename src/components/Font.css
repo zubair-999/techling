@@ -1,0 +1,81 @@
+.Amazon{
+    font-size: 42px;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    border-radius: 50%;
+    color: orange;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+.Node{
+    font-size: 42px;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+.Angular{
+    font-size: 42px;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    border-radius: 50%;
+    color:#fc0303;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+.React{
+    font-size: 42px;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    border-radius: 50%;
+    color:#03d3fc;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+.Google{
+    font-size: 20px;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    border-radius: 50%;
+    color:#03d3fc;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+.Graph{
+    font-size: 50px;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    border-radius: 50%;
+    color:#03d3fc;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+.Project{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    visibility: visible;
+    animation-duration: 0.5s;
+}
+.Feature{
+    font-size: 38px;
+    margin-bottom: 20px;
+    transition: all 0.5s;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    padding: 30px 0;
+    border-radius: 50%;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+
+
+
