@@ -25,7 +25,7 @@ export class Gallery extends Component {
                 >
                   <img src="img/chex.png" className="Project " alt="Chex.Ai" />
                 </a>
-                <h5 class="text-uppercase title-bold text-center">Chex.Ai</h5>
+                <h5 className="text-uppercase title-bold text-center">Chex.Ai</h5>
                 <a
                   href="https://chex.ai"
                   rel="”nofollow”"

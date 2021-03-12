@@ -112,6 +112,17 @@
             "img": "img/waleedzia.jpg",
             "name": "Waleed Zia",
             "job": "Software Enginner"
+        },
+        
+        {
+            "img": "img/kashif.jpeg",
+            "name": "Mubammad Kashif Shahbaz",
+            "job": "E-Commerce & Admin Head"
+        },
+        {
+            "img": "img/qamar.png",
+            "name": "Qamar Ashfaq",
+            "job": "Software Enginner"
         }
     ],
     "Contact": {

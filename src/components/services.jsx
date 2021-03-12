@@ -20,7 +20,7 @@ export class Services extends Component {
           </div>
           <div className="row">
             <div className="col-md-4">
-              <i class="fab fa-aws Amazon"></i>
+              <i className="fab fa-aws Amazon"></i>
               <div className="service-desc">
                 <h3>Amazon Web Services</h3>
                 <p>
@@ -55,7 +55,7 @@ export class Services extends Component {
           </div>
           <div className="row">
             <div className="col-md-4">
-              <i class="fab fa-react React"></i>
+              <i className="fab fa-react React"></i>
               <div className="service-desc">
                 <h3>React</h3>
                 <p>

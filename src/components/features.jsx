@@ -10,17 +10,17 @@ export class features extends Component {
           </div>
           <div className="row">
             <div className="col-xs-12 col-md-4">
-              <i class="fas fa-project-diagram Feature"></i>
+              <i className="fas fa-project-diagram Feature"></i>
               <h3>Project Completed</h3>
               <p>3</p>
             </div>
             <div className="col-xs-12 col-md-4">
-              <i class="fas fa-crown Feature"></i>
+              <i className="fas fa-crown Feature"></i>
               <h3>Satisfied Customers</h3>
               <p>3</p>
             </div>
             <div className="col-xs-12 col-md-4">
-              <i class="fas fa-users Feature"></i>
+              <i className="fas fa-users Feature"></i>
               <h3>Team Members</h3>
               <p>5</p>
             </div>
